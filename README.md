@@ -11,6 +11,16 @@ The goal of this project was to practice **scalable state management without ext
 
 ---
 
+## 📸 Screenshots
+
+![Products](screenshots/freshcart-products.png)
+
+| Product details | Cart |
+|---|---|
+| ![Product details](screenshots/freshcart-details.png) | ![Cart](screenshots/freshcart-cart.png) |
+
+---
+
 ## ✨ Features
 
 - Product catalog loaded asynchronously, with loading and error states
