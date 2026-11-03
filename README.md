@@ -69,7 +69,7 @@ src/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/wessam-khaled/freshcart.git
+git clone https://github.com/mahmoud-ebrahim18725/freshcart.git
 cd freshcart
 npm install
 npm run dev
@@ -84,4 +84,4 @@ npm run dev
 
 ---
 
-Built by [@wessam-khaled](https://github.com/wessam-khaled)
+Built by **Mahmoud Ebrahim** — [GitHub](https://github.com/mahmoud-ebrahim18725) · [LinkedIn](https://www.linkedin.com/in/mahmoud-ebrahim18725)
