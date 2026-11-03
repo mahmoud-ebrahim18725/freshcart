@@ -13,11 +13,11 @@ The goal of this project was to practice **scalable state management without ext
 
 ## 📸 Screenshots
 
-![Products](screenshots/freshcart-products.png)
+![Products](screenshots/freshcart-products.webp)
 
 | Product details | Cart |
 |---|---|
-| ![Product details](screenshots/freshcart-details.png) | ![Cart](screenshots/freshcart-cart.png) |
+| ![Product details](screenshots/freshcart-details.webp) | ![Cart](screenshots/freshcart-cart.webp) |
 
 ---
 
