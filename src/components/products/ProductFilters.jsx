@@ -2,11 +2,10 @@ import { useActions } from "../../hooks/useActions";
 import { useProductsSelectors } from "../../hooks/useProductsSelectors";
 
 export default function ProductFilters() {
-  const { setCategory, setSearch, setPriceRange, setSort } = useActions();
-  const { categories, category, searchInput, sort, priceRange } = useProductsSelectors();
+  const { setCategory, setPriceRange, setSort } = useActions();
+  const { categories, category, sort, priceRange } = useProductsSelectors();
 
   const handleCategoryChange = (event) => setCategory(event.target.value);
-  const handleSearchChange = (event) => setSearch(event.target.value);
   const handleSortChange = (event) => setSort(event.target.value);
   const handleMinPriceChange = (event) =>
     setPriceRange({ ...priceRange, min: Number(event.target.value) });
@@ -15,17 +14,6 @@ export default function ProductFilters() {
 
   return (
     <section className="product-filters">
-      <div className="product-filters__field">
-        <label htmlFor="product-search">Search</label>
-        <input
-          id="product-search"
-          type="search"
-          value={searchInput}
-          onChange={handleSearchChange}
-          placeholder="Search products"
-        />
-      </div>
-
       <div className="product-filters__field">
         <label htmlFor="product-category">Category</label>
         <select
