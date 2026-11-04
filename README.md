@@ -84,4 +84,4 @@ npm run dev
 
 ---
 
-Built by **Mahmoud Ebrahim** — [GitHub](https://github.com/mahmoud-ebrahim18725) · [LinkedIn](https://www.linkedin.com/in/mahmoud-ebrahim18725)
+Built by **Mahmoud Ebrahim** — [GitHub](https://github.com/mahmoud-ebrahim18725) · [LinkedIn](https://www.linkedin.com/in/mahmoud-ebrahim-fullstack)
