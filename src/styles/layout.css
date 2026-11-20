@@ -27,7 +27,7 @@
 }
 
 .site-nav::before {
-  content: "🛒 Smart Store";
+  content: "🛒 FreshCart";
   margin-right: auto;
   font-size: 1.2rem;
   font-weight: 800;
