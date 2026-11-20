@@ -9,6 +9,10 @@ The goal of this project was to practice **scalable state management without ext
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
+**🔗 Live demo:** https://freshcart-hazel.vercel.app
+
+> 📚 A learning project — built to practice React state management. Products come from a static JSON file (no backend).
+
 ---
 
 ## 📸 Screenshots
